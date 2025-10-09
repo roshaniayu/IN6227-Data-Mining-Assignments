@@ -1,6 +1,6 @@
 # IN6227 Data Mining Assignments
 
-Roshani Ayu Pranasti<br/>
+Full name: Roshani Ayu Pranasti<br/>
 Matric no: G2504973A<br/>
 M.Sc. in Information Systems<br/>
 Wee Kim Wee School of Communication and Information<br/>
