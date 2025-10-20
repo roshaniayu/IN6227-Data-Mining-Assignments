@@ -2,7 +2,7 @@
 
 Full name: Roshani Ayu Pranasti<br/>
 Matric no: G2504973A<br/>
-M.Sc. in Information Systems<br/>
+M.Sc. Student in Information Systems<br/>
 Wee Kim Wee School of Communication and Information<br/>
 Nanyang Technological University<br/>
 2025
@@ -18,3 +18,8 @@ Nanyang Technological University<br/>
 
 **Objective**: Use an association rules mining tool (I use Orange 3) and compare it to the brute-force approach.<br/>
 **Dataset**: Bakery Sales Dataset retrieved from Kaggle (https://www.kaggle.com/datasets/akashdeepkuila/bakery)
+
+## Assignment 3
+
+**Objective**: Use K-means algorithm and run it to demonstrate the results of good and bad choices of initial centroids.<br/>
+**Dataset**: Introvert, Extrovert & Ambivert Classification retrieved from Kaggle (https://www.kaggle.com/datasets/miadul/introvert-extrovert-and-ambivert-classification)
